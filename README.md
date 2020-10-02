@@ -71,6 +71,7 @@ When you host your personal website's code on GitHub, you get the support of fre
 
 **If you want to use a custom domain**, you'll want to add it to your repository's "Custom domain" settings on github.com. And then register and/or [configure your domain with a DNS provider](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
 
+When you host your personal website's code on Heroku, you get the support of free hosting through Heroku CLI which is good for MVC framework(eg:LARAVEL)
 ## Customization
 
 It's your website, and you control the source code. So you can customize everything, if you like. But we've provided a handful of quick customizations for you to consider as you get your website off the ground.
